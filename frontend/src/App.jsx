@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useContext } from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Start from './pages/Start'
@@ -56,3 +57,14 @@ const App = () => {
 }
 
 export default App
+=======
+import React from 'react';
+const App = () => {
+  return (
+    <div>
+      <h1>Hello World!</h1>
+    </div>
+  )
+}
+export default App;
+>>>>>>> 3366db7 (frontend commit)
